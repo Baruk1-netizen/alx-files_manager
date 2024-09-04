@@ -91,6 +91,4 @@ By the end of this project, should be able to:
 ### Note
 Please ensure that all implemented functionalities are thoroughly tested and reviewed. Manual QA review is required upon project completion. The auto review will be triggered at the project deadline.
 
-## Author
 
-- [waltertaya](https://www.github.com/waltertaya)
